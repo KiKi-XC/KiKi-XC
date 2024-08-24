@@ -10,12 +10,18 @@
 
 🌟 **My Skills**  
 ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
+![](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=flat-square)
 ![](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=fff)
 ![](https://img.shields.io/badge/-Vue-4fc08d?style=flat-square&logo=Vue.js&logoColor=fff)
 ![](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=fff)
-![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
 ![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
 ![](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=fff)
+![](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat-square)
+![](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat-square)
+![](https://img.shields.io/badge/Wails-DF0000?logo=wails&logoColor=fff&style=flat-square)
+![](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=flat-square)
+![](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square)
+
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)

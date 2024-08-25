@@ -24,24 +24,25 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    16 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Chrome                   16 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+github-readme-stats      15 mins             ███████████████████████░░   91.98 % 
+KiKi-XC                  0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+Unknown Project          0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+mikoto2464               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  16 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -55,6 +56,6 @@ NSIS                     1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 24/08/2024 15:39:26 UTC
+ Last Updated on 25/08/2024 01:40:38 UTC
 <!--END_SECTION:waka-->
 

@@ -21,7 +21,7 @@
 ![](https://img.shields.io/badge/Wails-DF0000?logo=wails&logoColor=fff&style=flat-square)
 ![](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=flat-square)
 ![](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square)
-
+![](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat-square)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-36%20mins-blue)

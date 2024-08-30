@@ -25,10 +25,9 @@
 ![](https://img.shields.io/badge/Wails-DF0000?logo=wails&logoColor=fff&style=flat-square)
 ![](https://img.shields.io/badge/Unreal%20Engine-0E1128?logo=unrealengine&logoColor=fff&style=flat-square)
 
+[![wakatime](https://wakatime.com/badge/user/3f1d9aff-95f1-4428-8a86-4bfac71e39fa.svg)](https://wakatime.com/@3f1d9aff-95f1-4428-8a86-4bfac71e39fa)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-46%20mins-blue)
-
 📊 **This Week I Spent My Time On** 
 
 ```text

@@ -27,7 +27,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-16%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%203%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -68,6 +68,6 @@ NSIS                     1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 30/08/2024 00:48:43 UTC
+ Last Updated on 30/08/2024 00:56:11 UTC
 <!--END_SECTION:waka-->
 

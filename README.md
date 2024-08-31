@@ -26,7 +26,7 @@
 ![](https://img.shields.io/badge/Unreal%20Engine-0E1128?logo=unrealengine&logoColor=fff&style=flat-square)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2011%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -63,6 +63,6 @@ NSIS                     1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 30/08/2024 16:42:37 UTC
+ Last Updated on 31/08/2024 01:37:06 UTC
 <!--END_SECTION:waka-->
 

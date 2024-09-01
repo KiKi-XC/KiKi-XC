@@ -26,7 +26,7 @@
 ![](https://img.shields.io/badge/Unreal%20Engine-0E1128?logo=unrealengine&logoColor=fff&style=flat-square)
 [![wakatime](https://wakatime.com/badge/user/3f1d9aff-95f1-4428-8a86-4bfac71e39fa.svg)](https://wakatime.com/@3f1d9aff-95f1-4428-8a86-4bfac71e39fa)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%204%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -67,6 +67,6 @@ NSIS                     1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 01/09/2024 01:51:08 UTC
+ Last Updated on 01/09/2024 05:48:28 UTC
 <!--END_SECTION:waka-->
 

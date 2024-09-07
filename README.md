@@ -28,6 +28,41 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%2018%20mins-blue)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-314-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 100.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 196 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 2 Public Repositories 
+ > 
+> 🔑 8 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                45 commits          ██████░░░░░░░░░░░░░░░░░░░   23.32 % 
+🌆 Daytime                43 commits          ██████░░░░░░░░░░░░░░░░░░░   22.28 % 
+🌃 Evening                88 commits          ███████████░░░░░░░░░░░░░░   45.60 % 
+🌙 Night                  17 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
+Tuesday                  14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
+Wednesday                22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+Thursday                 20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
+Friday                   43 commits          ██████░░░░░░░░░░░░░░░░░░░   22.28 % 
+Saturday                 61 commits          ████████░░░░░░░░░░░░░░░░░   31.61 % 
+Sunday                   21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
+```
+
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -66,7 +101,11 @@ NSIS                     1 repo              ████░░░░░░░�
 
 
 
+**Timeline**
 
- Last Updated on 07/09/2024 01:38:38 UTC
+![Lines of Code chart](https://raw.githubusercontent.com/KiKi-XC/KiKi-XC/main/assets/bar_graph.png)
+
+
+ Last Updated on 07/09/2024 01:41:25 UTC
 <!--END_SECTION:waka-->
 

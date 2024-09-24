@@ -1,7 +1,8 @@
 [![](https://readme-typing-svg.herokuapp.com?size=25&duration=2500&color=8C43EA&vCenter=true&width=200&height=40&lines=Hi+there+%F0%9F%91%8B%F0%9F%8F%BB;I'm+KiKi-XC)](https://git.io/typing-svg)
 
-
-![KiKi-XC's Stats](https://github-readme-stats.vercel.app/api?username=KiKi-XC&theme=vue&show_icons=true&hide_border=false&count_private=true)
+<a href="#">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=KiKi-XC&theme=vue&show_icons=true&hide_border=false&count_private=true&show_icons=true&bg_color=15,f2f7fd,E0EAFC" />
+</a>
 
 - 🌱 I’m currently learning: Python, Golang, Vue
 - 👯 I’m collaborating on: [KiKi-FusionBot](https://github.com/KiKi-XC/KiKi-FusionBot), [TccServer](https://github.com/Tcc-Items)

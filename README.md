@@ -5,8 +5,8 @@
 </a>
 
 - 🌱 I’m currently learning: Python, Golang, Vue
-- 👯 I’m collaborating on: [KiKi-FusionBot](https://github.com/KiKi-XC/KiKi-FusionBot), [TccServer](https://github.com/Tcc-Items)
-- 💬 Ask me about: [KiKi-FusionBot](https://github.com/KiKi-XC/KiKi-FusionBot), [TccServiceSite](https://github.com/KiKi-XC/TccServiceSite)
+- 👯 I’m collaborating on: [KiKi-FusionBot](https://github.com/KiKi-XC), [TccServer](https://github.com/Tcc-Items)
+- 💬 Ask me about: [KiKi-FusionBot](https://github.com/KiKi-XC), [TccServiceSite](https://github.com/KiKi-XC/TccServiceSite)
 
 🌟 **My Skills**  
 ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)

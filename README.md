@@ -2,9 +2,6 @@
 
 
 ![KiKi-XC's Stats](https://github-readme-stats.vercel.app/api?username=KiKi-XC&theme=vue&show_icons=true&hide_border=false&count_private=true)
-![KiKi-XC's Streak](https://github-readme-streak-stats.herokuapp.com/?user=KiKi-XC&theme=vue&hide_border=false)
-![KiKi-XC's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KiKi-XC&theme=vue&show_icons=true&hide_border=false&layout=compact)
-
 
 - 🌱 I’m currently learning: Python, Golang, Vue
 - 👯 I’m collaborating on: [KiKi-FusionBot](https://github.com/KiKi-XC/KiKi-FusionBot), [TccServer](https://github.com/Tcc-Items)

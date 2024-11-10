@@ -31,9 +31,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 157.9 kB Used in GitHub's Storage 
+> 📦 158.0 kB Used in GitHub's Storage 
  > 
-> 🏆 714 Contributions in the Year 2024
+> 🏆 730 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -41,45 +41,6 @@
  > 
 > 🔑 11 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                140 commits         █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
-🌆 Daytime                144 commits         █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
-🌃 Evening                344 commits         ████████████░░░░░░░░░░░░░   49.28 % 
-🌙 Night                  70 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   57 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
-Tuesday                  98 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
-Wednesday                87 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
-Thursday                 75 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
-Friday                   70 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
-Saturday                 159 commits         ██████░░░░░░░░░░░░░░░░░░░   22.78 % 
-Sunday                   152 commits         █████░░░░░░░░░░░░░░░░░░░░   21.78 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -93,6 +54,6 @@ NSIS                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 09/11/2024 01:40:09 UTC
+ Last Updated on 10/11/2024 01:48:08 UTC
 <!--END_SECTION:waka-->
 

@@ -4,7 +4,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=KiKi-XC&theme=vue&show_icons=true&hide_border=false&count_private=true&show_icons=true&bg_color=15,f2f7fd,E0EAFC" />
 </a>
 
-- 🌱 I’m currently learning: Python, Golang, Vue
+- 🌱 I’m currently learning: Python, Dart, Vue
 - 👯 I’m collaborating on: [KiKi-FusionBot-Docs](https://github.com/KiKi-XC/KiKi-FusionBot-Docs), [TccServer](https://github.com/Tcc-Items)
 - 💬 Ask me about: [KiKi-FusionBot](https://github.com/KiKi-XC), [TccServiceSite](https://github.com/KiKi-XC/TccServiceSite)
 

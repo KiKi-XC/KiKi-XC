@@ -33,7 +33,7 @@
 
 > 📦 199.0 kB Used in GitHub's Storage 
  > 
-> 🏆 646 Contributions in the Year 2025
+> 🏆 647 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -41,6 +41,45 @@
  > 
 > 🔑 12 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                318 commits         ██████░░░░░░░░░░░░░░░░░░░   22.91 % 
+🌆 Daytime                304 commits         █████░░░░░░░░░░░░░░░░░░░░   21.90 % 
+🌃 Evening                596 commits         ███████████░░░░░░░░░░░░░░   42.94 % 
+🌙 Night                  170 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   126 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
+Tuesday                  160 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+Wednesday                191 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
+Thursday                 132 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
+Friday                   112 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
+Saturday                 320 commits         ██████░░░░░░░░░░░░░░░░░░░   23.05 % 
+Sunday                   347 commits         ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -54,6 +93,6 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/05/2025 02:01:28 UTC
+ Last Updated on 23/05/2025 02:01:02 UTC
 <!--END_SECTION:waka-->
 

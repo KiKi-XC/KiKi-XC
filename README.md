@@ -25,13 +25,15 @@
 ![](https://img.shields.io/badge/Unreal%20Engine-0E1128?logo=unrealengine&logoColor=fff&style=flat-square)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-272%20hrs%2010%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 270.1 kB Used in GitHub's Storage 
  > 
-> 🏆 31 Contributions in the Year 2026
+> 🏆 32 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -39,6 +41,45 @@
  > 
 > 🔑 19 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                586 commits         ███████░░░░░░░░░░░░░░░░░░   27.80 % 
+🌆 Daytime                532 commits         ██████░░░░░░░░░░░░░░░░░░░   25.24 % 
+🌃 Evening                718 commits         █████████░░░░░░░░░░░░░░░░   34.06 % 
+🌙 Night                  272 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   174 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
+Tuesday                  194 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+Wednesday                237 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+Thursday                 189 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+Friday                   207 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
+Saturday                 597 commits         ███████░░░░░░░░░░░░░░░░░░   28.32 % 
+Sunday                   510 commits         ██████░░░░░░░░░░░░░░░░░░░   24.19 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -52,6 +93,6 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/01/2026 02:28:59 UTC
+ Last Updated on 06/01/2026 02:12:07 UTC
 <!--END_SECTION:waka-->
 
